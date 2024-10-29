@@ -1,37 +1,37 @@
-## Conceito Big Idea
+## Big Idea Concept
 
-Gerenciamento de tempo e produtividade na programação Swift
+Time management and productivity in Swift programming
 
-## Pergunta Essencial
+## Essential Question
 
-Como implementar a técnica Pomodoro em Swift para melhorar a eficiência no desenvolvimento de software?
+How to implement the Pomodoro technique in Swift to improve efficiency in software development?
 
-## Desafio
+## Challenge
 
-Desenvolver um aplicativo em Swift que implemente a técnica Pomodoro para auxiliar programadores a gerenciar seu tempo de trabalho e descanso.
+Develop a Swift application that implements the Pomodoro technique to help programmers manage their work and rest time.
 
-## Questões Norteadoras
+## Guiding Questions
 
-- O que é a técnica Pomodoro e quais são seus princípios básicos?
-- Quais elementos da linguagem Swift são necessários para implementar um temporizador?
-- Como estruturar o código em Swift para alternar entre períodos de trabalho e descanso?
-- Que bibliotecas do Swift podem ser úteis para notificações e interface do usuário?
+- What is the Pomodoro technique and what are its basic principles?
+- What elements of the Swift language are necessary to implement a timer?
+- How to structure the Swift code to alternate between work and rest periods?
+- Which Swift libraries can be useful for notifications and user interface?
 
-## Atividades e Recursos
+## Activities and Resources
 
-- Pesquisar sobre a técnica Pomodoro e suas variações
-- Estudar a biblioteca Foundation do Swift para manipulação de tempo
-- Explorar a criação de interfaces de usuário simples em Swift
-- Implementar um protótipo básico do temporizador Pomodoro
+- Research the Pomodoro technique and its variations
+- Study the Swift Foundation library for time manipulation
+- Explore creating simple user interfaces in Swift
+- Implement a basic prototype of the Pomodoro timer
 
-## Análise e Reflexão
+## Analysis and Reflection
 
-Ao desenvolver o aplicativo Pomodoro em Swift, considere:
+When developing the Pomodoro app in Swift, consider:
 
-- A eficácia da implementação em comparação com a técnica original
-- Desafios encontrados na programação e como foram superados
-- Possíveis melhorias e recursos adicionais para futuras versões
+- The effectiveness of the implementation compared to the original technique
+- Challenges encountered in programming and how they were overcome
+- Possible improvements and additional features for future versions
 
-## Ação
+## Action
 
-Criar um aplicativo funcional em Swift que implemente a técnica Pomodoro, testá-lo durante sessões de programação e compartilhar os resultados com colegas para feedback.
+Create a functional Swift application that implements the Pomodoro technique, test it during programming sessions, and share the results with colleagues for feedback.
